@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ClientPackage","c":"Client","l":"Client()","u":"%3Cinit%3E()"},{"p":"ClientPackage","c":"Client","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"ServerPackage","c":"Server","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"ServerPackage","c":"Server","l":"Server()","u":"%3Cinit%3E()"}];updateSearchResults();
